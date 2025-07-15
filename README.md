@@ -12,10 +12,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Pledat02&margin-w=15&theme=flat&no-frame=true" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,java,github,html,css,js,docker" />
-</p>
-
 <h3 align="center">Connect With Me 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
