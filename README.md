@@ -1,6 +1,4 @@
 # Hi there 👋, I'm Pham Le Dat
-
-- 🎓 I'm currently a Computer Science Student at International University - Vietnam National University Ho Chi Minh City
 - 💻 I have experience with React, Spring Boot, and Java
 - 🌱 Always learning new technologies and improving my skills
 - 📫 Feel free to reach me at: phamledat93@gmail.com
