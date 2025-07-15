@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Pham Le Dat</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pledat02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile view count" />
+</p>
+
+<p align="center">
   💻 I'm a final-year Information Technology student passionate about backend development.  
   <br/>
   I have experience with <strong>Java, Spring Boot, MySQL</strong> and a basic understanding of <strong>React</strong> for frontend development.
